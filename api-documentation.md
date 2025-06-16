@@ -8,10 +8,6 @@ This document provides full API reference for the production-ready Inventory Man
 
 http://localhost:8080/inventory
 
-yaml
-Copy
-Edit
-
 ---
 
 ## 🛒 1. Create a New Item
