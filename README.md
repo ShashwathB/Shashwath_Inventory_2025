@@ -33,3 +33,21 @@ To develop a production-ready, optimized  e-commerce inventory management system
 
 ## 🧩 Project Structure
 
+com.example.demo
+├── controller
+│   └── ItemController.java
+├── dto
+│   ├── CreateItemRequest.java
+│   ├── ReserveRequest.java
+│   └── SupplyRequest.java
+├── entity
+│   ├── Item.java
+│   ├── Reservation.java
+│   └── ReservationStatus.java
+├── repo
+│   ├── ItemRepository.java
+│   └── ReservationRepository.java
+├── service
+│   ├── ItemService.java
+│   └── ItemServiceImpl.java
+└── DemoApplication.java
